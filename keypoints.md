@@ -65,11 +65,11 @@ $\rightarrow$ スライド（講義内容や宿題），レポート，各回の
 <!-- - [今年の中間テスト](exercise/exam1-2022.pdf)
   - [解答](exercise/exam1-2022_answer.pdf) -->
 
-<!-- ### 後半
+### 後半
 
-- [第9,10回の練習問題](exercise/ex_lec9-10_2021.pdf)
-  - [解答](exercise/ex_lec9-10_2021_answer.pdf)
-- [第9～14回の練習問題（上の練習問題含む）](exercise/ex_lec9-14_2021.pdf)
+- [第9,10回の練習問題](exercise/ex_lec9-10_2022.pdf)
+  - [解答](exercise/ex_lec9-10_2022_answer.pdf)
+<!-- - [第9～14回の練習問題（上の練習問題含む）](exercise/ex_lec9-14_2021.pdf)
   - [解答](exercise/ex_lec9-14_2021_answer.pdf)
   - [解答（スライドページ参照付き）](exercise/ex_lec9-14_2021_answer-c.pdf) -->
 
