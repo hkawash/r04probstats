@@ -4,11 +4,14 @@
 
 2クラスのテストの平均点を比較する演習用です．
 
-（注意）実際のテストではなく，演習用に手動で作成したデータです．
+- （注意）実際のテストではなく，演習用に手動で作成したデータです．
+- 2022.12.5 にデータの文字コード修正
+    - 最近のRを使っている人は上側のファイルを使ってください．
+    - 下側のファイルはややバージョンが古い場合用です．
 
 - [testscore.csv](testscore.csv)
-- [testscore_utf8.csv](testscore_utf8.csv)
-    - 文字化けする場合はこちらを使ってください．
+- [testscore_sjis.csv](testscore_sjis.csv)
+    - 上側のファイルが読み込めない or 文字化けする場合はこちらを使ってください．
 
 ## 風呂に入る時間帯と疲れ指数
 
@@ -17,11 +20,13 @@
 （注意）こちらも実際のデータではなく，演習用に手動で作成したデータです．
 
 - [bathdummy.csv](bathdummy.csv)
-- [bathdummy_utf8.csv](bathdummy_utf8.csv)
-    - 文字化けする場合はこちらを使ってください．
+- [bathdummy_sjis.csv](bathdummy_sjis.csv)
+    - 上側のファイルが読み込めない or 文字化けする場合はこちらを使ってください．
 
 ## 重回帰用：チョコ菓子，気温，年，月
 
 e-Stat の家計調査データより抽出した実データです．
 
 - [multreg.csv](multreg.csv)
+- [multreg_sjis.csv](multreg_sjis.csv)
+    - 上側のファイルが読み込めない or 文字化けする場合はこちらを使ってください．
