@@ -28,5 +28,4 @@
 e-Stat の家計調査データより抽出した実データです．
 
 - [multreg.csv](multreg.csv)
-- [multreg_sjis.csv](multreg_sjis.csv)
-    - 上側のファイルが読み込めない or 文字化けする場合はこちらを使ってください．
+
